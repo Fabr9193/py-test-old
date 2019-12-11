@@ -1,0 +1,1 @@
+DB_CERT = "./secu-poke-firebase-adminsdk-bjll3-556faa2a47.json"
